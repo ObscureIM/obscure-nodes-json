@@ -1,0 +1,23 @@
+{
+  "name": "obscure-nodes-json",
+  "version": "1.0.0",
+  "description": "List of all public nodes for the obscure network",
+  "main": "nodes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ObscureIM/obscure-nodes-json.git"
+  },
+  "keywords": [
+    "public",
+    "nodes"
+  ],
+  "author": "PausCrypto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ObscureIM/obscure-nodes-json/issues"
+  },
+  "homepage": "https://github.com/ObscureIM/obscure-nodes-json#readme"
+}
