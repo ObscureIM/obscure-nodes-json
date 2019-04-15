@@ -3,32 +3,38 @@
     {
       "name": "Official Seed Node Singapore 1",
       "url": "209.97.174.174",
-      "port": 12002,
+      "port": 11002,
       "ssl": false
     },
     {
       "name": "Official Seed Node Singapore 2",
       "url": "178.128.223.203",
-      "port": 12002,
+      "port": 11002,
       "ssl": false
     },
     {
       "name": "Official Seed Node New York City",
       "url": "138.197.105.219",
-      "port": 12002,
+      "port": 11002,
       "ssl": false
     },
     {
-      "name": "Official Seed Node East Coast 1",
-      "url": "40.112.59.225",
-      "port": 12002,
+      "name": "PuraPuraNinja 1",
+      "url": "35.196.227.151",
+      "port": 11002,
       "ssl": false
     },
     {
-      "name": "Official Seed Node East Coast 2",
-      "url": "13.82.133.128",
-      "port": 12002,
+      "name": "PuraPuraNinja 2",
+      "url": "34.73.252.150",
+      "port": 11002,
       "ssl": false
-    }
+    },
+    {
+      "name": "Reeyon",
+      "url": "58.185.155.109",
+      "port": 11002,
+      "ssl": false
+    },
   ]
 }
